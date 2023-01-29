@@ -1,4 +1,4 @@
-<h1>vscode-android</h1>
+# vscode-android
 
 A web-based text editor app for Android that leverages the power of [vscode.dev](https://vscode.dev) to provide a seamless experience. With this app, you can edit and manage your text files on the go with all the functionality of Visual Studio Code at your fingertips.
 
@@ -12,7 +12,7 @@ A web-based text editor app for Android that leverages the power of [vscode.dev]
 
 ## Getting started
 
-1. Download the latest APK from the [Releases](https://github.com/your-username/vscode-android/releases) page.
+1. Download the latest APK from the [Releases](https://github.com/ruihq/vscode-android/releases) page.
 2. Install the APK on your Android device
 3. Open the app and start editing your text files
 
